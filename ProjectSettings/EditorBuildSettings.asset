@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: b9fe1e8d17c82ee4ba3f79ba92e8bfa8
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: 278edefd39135044e8f4aff4392d861d
+  - enabled: 1
+    path: Assets/Scenes/stage1.unity
+    guid: 09690953709fe2e4c900fd1b4a36e33f
+  - enabled: 1
+    path: Assets/Scenes/stage1-1.unity
+    guid: 51997eef0a5321c4c9689627294bb470
+  - enabled: 1
+    path: Assets/Scenes/stage2.unity
+    guid: b8f4ad5fbda66cd4e94b799245e77435
+  - enabled: 1
+    path: Assets/Scenes/stage2-1.unity
+    guid: 2f4a3f63a7fe86f49a21832bd5a0fb4e
+  - enabled: 1
+    path: Assets/Scenes/stage3.unity
+    guid: 2951642d17d8d1445a1af000c4bd0d71
+  - enabled: 1
+    path: Assets/Scenes/stage3-1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/secene3-2.unity
+    guid: d367f0a9de8824f4b936b74e80d5abbd
+  - enabled: 1
+    path: Assets/Scenes/bossstage.unity
+    guid: 1f539ab46cbda804b950a008354ab8a5
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: de931d053b1a4a4449eeb2e5974bc7ab
+  - enabled: 1
+    path: Assets/Scenes/main 2.unity
+    guid: 746607696e2068546b155412d38469aa
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 52e6b8fabfa0fe2488421064bf23fd86
+  - enabled: 1
+    path: Assets/Scenes/gameclear.unity
+    guid: 3015682a08c500c4fafc30d83ab347b5
+  - enabled: 1
+    path: Assets/Scenes/select.unity
+    guid: ccd5ba6c158253044ae936d98aa1736a
+  m_configObjects: {}
