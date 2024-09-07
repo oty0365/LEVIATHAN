@@ -22,7 +22,7 @@ public class Nextlevel : MonoBehaviour
         transistionAnim.SetBool("End",false);
         transistionAnim.SetBool("Start",true);
         CurrentSceneTag = SceneManager.GetActiveScene().buildIndex;
-        PlayerPrefs.SetInt("Stage",CurrentSceneTag);
+        PlayerPrefs.SetInt("Stage",CurrentSceneTag); 
         //Debug.Log(CurrentSceneTag);
     }
 
