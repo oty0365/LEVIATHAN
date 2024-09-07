@@ -6,7 +6,7 @@ public class Reset : MonoBehaviour
 {
     public void ResetSaveData()
     {
-        PlayerPrefs.DeleteKey("Stage");
-        PlayerPrefs.DeleteAll();
+        PlayerPrefs.DeleteKey("Stage"); 
+        PlayerPrefs.DeleteAll(); 
     }
 }

@@ -9,7 +9,7 @@ public class Endscene : MonoBehaviour
     void Start()
     {
         CurrentSceneTag = SceneManager.GetActiveScene().buildIndex;
-        PlayerPrefs.SetInt("Stage",CurrentSceneTag);
+        PlayerPrefs.SetInt("Stage",CurrentSceneTag); 
         SceneManager.LoadScene(CurrentSceneTag+1);
     }
 
